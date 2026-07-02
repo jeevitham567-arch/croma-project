@@ -1,0 +1,58 @@
+.loginPage{
+
+height:80vh;
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+}
+
+
+.loginPage form{
+
+width:350px;
+
+padding:30px;
+
+border:1px solid #ddd;
+
+border-radius:15px;
+
+background:white;
+
+}
+
+
+.loginPage input{
+
+width:100%;
+
+padding:12px;
+
+margin:10px 0;
+
+box-sizing:border-box;
+
+}
+
+
+.loginPage button{
+
+width:100%;
+
+padding:12px;
+
+background:#00c853;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+cursor:pointer;
+
+}
